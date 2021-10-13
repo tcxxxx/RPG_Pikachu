@@ -160,13 +160,10 @@ snakemake --cores 10 --use-conda
 
  - AF analysis on subpopluation
 
-<p float="left">
-  <img width="170" height= "180" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/AFR_af.jpeg">
-  <img width="170" height= "180" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/AMR_af.jpeg">
-  <img width="170" height= "180" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/EAS_af.jpeg">
-  <img width="170" height= "180" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/EUR_af.jpeg">
-  <img width="170" height= "180" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/SAS_af.jpeg">
-</p>
+
+ AFR | AMR | EAS | EUR | SAS 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img width="170" height= "170" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/AFR_af.jpeg"> | <img width="170" height= "170" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/AMR_af.jpeg"> | <img width="170" height= "170" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/EAS_af.jpeg"> | <img width="170" height= "170" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/EUR_af.jpeg"> | <img width="170" height= "170" alt="image" src="https://github.com/collaborativebioinformatics/RPG_Pikachu/blob/main/images/SAS_af.jpeg"> 
 
 Fig.2 - AF analysis on subpopluation
 
